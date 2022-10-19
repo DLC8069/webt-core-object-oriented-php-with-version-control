@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    background-color: lightskyblue;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+article{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section{
+    margin: 4px;
+    background-color: beige;
+    border: 2px solid lightslategrey;
+}
+
